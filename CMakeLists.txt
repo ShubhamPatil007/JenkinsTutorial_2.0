@@ -4,4 +4,4 @@ project("Light")
 
 add_executable("${PROJECT_NAME}" "main.cpp" "Light.cpp")
 
-install(TARGETS DESTINATION build)
+# install(TARGETS DESTINATION build)
